@@ -22,7 +22,7 @@ Contributions to Apex are welcome!
 If you find any issues or want to add new features, feel free to submit a pull request. Please make sure to follow the existing code style and include appropriate tests.
 ## LicenseThis
 project is licensed under the MIT License. Feel free to use it for your own projects.
-## Acknowledgements-
+## Acknowledgements
 Next.js- Tailwind CSS- Express.js- MongoDB- JWT- OpenAI GPT-3- Any other libraries or resources you used
 ## ContactIf
 you have any questions or suggestions regarding Apex, please feel free to reach out to us:- Email: contact@apex.com- Website: https://apex.com- GitHub: https://github.com/alirazaztdev1
